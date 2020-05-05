@@ -142,7 +142,7 @@ const (
 	podKillingChannelCapacity = 50
 
 	// Period for performing global cleanup tasks.
-	housekeepingPeriod = time.Second * 2
+	housekeepingPeriod = 5 * time.Second
 
 	// Period for performing eviction monitoring.
 	// TODO ensure this is in sync with internal cadvisor housekeeping.

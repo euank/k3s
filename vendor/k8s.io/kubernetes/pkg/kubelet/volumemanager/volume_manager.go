@@ -56,11 +56,11 @@ import (
 const (
 	// reconcilerLoopSleepPeriod is the amount of time the reconciler loop waits
 	// between successive executions
-	reconcilerLoopSleepPeriod = 100 * time.Millisecond
+	reconcilerLoopSleepPeriod = 2 * time.Second
 
 	// desiredStateOfWorldPopulatorLoopSleepPeriod is the amount of time the
 	// DesiredStateOfWorldPopulator loop waits between successive executions
-	desiredStateOfWorldPopulatorLoopSleepPeriod = 100 * time.Millisecond
+	desiredStateOfWorldPopulatorLoopSleepPeriod = 2 * time.Second
 
 	// desiredStateOfWorldPopulatorGetPodStatusRetryDuration is the amount of
 	// time the DesiredStateOfWorldPopulator loop waits between successive pod
