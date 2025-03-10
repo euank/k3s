@@ -453,8 +453,8 @@ github.com/envoyproxy/protoc-gen-validate v1.0.2/go.mod h1:GpiZQP3dDbg4JouG/NNS7
 github.com/envoyproxy/protoc-gen-validate v1.0.4/go.mod h1:qys6tmnRsYrQqIhm2bvKZH4Blx/1gTIZ2UKVY1M+Yew=
 github.com/erikdubbelboer/gspt v0.0.0-20190125194910-e68493906b83 h1:ngHdSomn2MyugZYKHiycad2xERwIrmMlET7A0lC0UU4=
 github.com/erikdubbelboer/gspt v0.0.0-20190125194910-e68493906b83/go.mod h1:v6o7m/E9bfvm79dE1iFiF+3T7zLBnrjYjkWMa1J+Hv0=
-github.com/euank/flannel v0.26.6-0.20250308080350-6e438c564903 h1:QwOigdkdL+jhhUBjq0bdojoQmvoIS33Yt/kU/g4Y8sQ=
-github.com/euank/flannel v0.26.6-0.20250308080350-6e438c564903/go.mod h1:dW8y0MeF79L+39p7mPXcKRLCFlJMCKZ/rv0T+CKIY3s=
+github.com/euank/flannel v0.26.6-0.20250310141225-812469880bfe h1:UO9gK3ghxYZmljG+lRZj2UqKnTBua6rll7XnSgODyl0=
+github.com/euank/flannel v0.26.6-0.20250310141225-812469880bfe/go.mod h1:dW8y0MeF79L+39p7mPXcKRLCFlJMCKZ/rv0T+CKIY3s=
 github.com/euank/go-kmsg-parser v2.0.0+incompatible h1:cHD53+PLQuuQyLZeriD1V/esuG4MuU0Pjs5y6iknohY=
 github.com/euank/go-kmsg-parser v2.0.0+incompatible/go.mod h1:MhmAMZ8V4CYH4ybgdRwPr2TU5ThnS43puaKEMpja1uw=
 github.com/evanphx/json-patch v5.9.0+incompatible h1:fBXyNpNMuTTDdquAq/uisOr2lShz4oaXpDTX2bLe7ls=

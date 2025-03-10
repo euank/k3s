@@ -515,4 +515,4 @@ require (
 	tags.cncf.io/container-device-interface/specs-go v0.8.0 // indirect
 )
 
-replace github.com/flannel-io/flannel v0.25.7 => github.com/euank/flannel v0.26.6-0.20250308080350-6e438c564903
+replace github.com/flannel-io/flannel v0.25.7 => github.com/euank/flannel v0.26.6-0.20250310141225-812469880bfe
